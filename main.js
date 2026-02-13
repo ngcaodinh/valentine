@@ -68,11 +68,11 @@ function getUrlParameter(name) {
     if (name === "text1") return "Happy";
     if (name === "text") return "Valentine's";
     if (name === "text2") return "Day";
-    if (name === "name") return "Gửi người yêu của anh,";
+    if (name === "name") return "Gửi người yêu của anh";
     if (name === "music")
         return "https://cdn.shopify.com/s/files/1/0757/9700/4572/files/tiktok-music-1767632061164-yrpxg.mp3?v=1767632064";
     if (name === "introduce")
-        return "Chúc mừng valentine đầu tiên của chúng mình, dù là anh không có bên cạnh cd, nhưng lúc nào anh cũng nghĩ tới cd hết. Anh cảm ơn vì cd đã đến và tất cả những gì mà cd đã dành cho anh trong thời gian qua. Chúc cd 1 ngày thật nhiều tiếng cười bên người thân, gia đình.";
+        return "Chúc mừng valentine đầu tiên của chúng mình, dù là anh không có bên cạnh cd, nhưng lúc nào anh cũng nghĩ tới cd hết. Anh cảm ơn vì cd đã đến và cảm ơn tất cả những gì mà cd đã dành cho anh trong thời gian qua. Chúc cd 1 ngày thật nhiều tiếng cười bên người thân, gia đình.";
     if (name === "loopText") return "Yêu em!";
 
     return null;
